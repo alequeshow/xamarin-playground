@@ -1,0 +1,10 @@
+D:\Src\Projects\xamarin-playground\xamarin-mvvm\obj\Debug\netstandard2.0\xamarin-mvvm.csprojAssemblyReference.cache
+D:\Src\Projects\xamarin-playground\xamarin-mvvm\obj\Debug\netstandard2.0\xamarin-mvvm.csproj.CoreCompileInputs.cache
+D:\Src\Projects\xamarin-playground\xamarin-mvvm\obj\Debug\netstandard2.0\xamarin-mvvm.AssemblyInfoInputs.cache
+D:\Src\Projects\xamarin-playground\xamarin-mvvm\obj\Debug\netstandard2.0\xamarin-mvvm.AssemblyInfo.cs
+D:\Src\Projects\xamarin-playground\xamarin-mvvm\bin\Debug\netstandard2.0\Xamarin-mvvm.deps.json
+D:\Src\Projects\xamarin-playground\xamarin-mvvm\bin\Debug\netstandard2.0\Xamarin-mvvm.dll
+D:\Src\Projects\xamarin-playground\xamarin-mvvm\bin\Debug\netstandard2.0\Xamarin-mvvm.pdb
+D:\Src\Projects\xamarin-playground\xamarin-mvvm\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Src\Projects\xamarin-playground\xamarin-mvvm\obj\Debug\netstandard2.0\Xamarin-mvvm.dll
+D:\Src\Projects\xamarin-playground\xamarin-mvvm\obj\Debug\netstandard2.0\Xamarin-mvvm.pdb
